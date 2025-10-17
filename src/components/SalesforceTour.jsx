@@ -15,10 +15,10 @@ import tourImg001 from "../assets/tourimg001.png";
 import tourImg10 from "../assets/tourimg10.jpg";
 import tourImg2 from "../assets/tourimg2.jpeg";
 import tourImg4 from "../assets/tourimg4.jpeg";
-import tourImg5 from "../assets/tourimg2.jpeg";
+import tourImg5 from "../assets/tourimg2.jpeg"; //makeit change later
 import tourImg6 from "../assets/tourimg6.jpg";
 import tourImg7 from "../assets/tourimg7.jpeg";
-import tourImg9 from "../assets/tourimg9.jpg";
+import tourImg9 from "../assets/tourimg9.jpeg";
 import tourimg01 from "../assets/tourimg01.png";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
