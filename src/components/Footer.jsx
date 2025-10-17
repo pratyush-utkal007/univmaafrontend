@@ -15,7 +15,7 @@ const Footer = () => {
   const quickLinks = [
     { label: "Home", path: "/" },
     { label: "About us", path: "/aboutus" },
-    { label: "Services", path: "/servicecloud" },
+    { label: "Services", path: "/salesforceimplementation" },
     { label: "Career", path: "/career" },
     { label: "Contact us", path: "/contactus" },
   ];
